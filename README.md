@@ -1,2 +1,2 @@
 # pyfad
-publish your free ad
+post your free ad
